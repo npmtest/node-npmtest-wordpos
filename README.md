@@ -1,6 +1,6 @@
 # npmtest-wordpos
 
-#### test coverage for  [wordpos (v1.1.2)](https://github.com/moos/wordpos)  [![npm package](https://img.shields.io/npm/v/npmtest-wordpos.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wordpos) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wordpos.svg)](https://travis-ci.org/npmtest/node-npmtest-wordpos)
+#### basic test coverage for  [wordpos (v1.1.2)](https://github.com/moos/wordpos)  [![npm package](https://img.shields.io/npm/v/npmtest-wordpos.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wordpos) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wordpos.svg)](https://travis-ci.org/npmtest/node-npmtest-wordpos)
 
 #### wordpos is a set of part-of-speech utilities for Node.js using the WordNet database.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-wordpos/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-wordpos/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-wordpos/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-wordpos/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-wordpos/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-wordpos/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-wordpos/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-wordpos/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-wordpos/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-wordpos/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-wordpos/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-wordpos/build/coverage.html/index.html)
 
